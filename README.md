@@ -9,9 +9,9 @@
 - ⚡ Fun fact **Part of being a person is about helping others**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/!!" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@gokulnath" height="30" width="40" /></a>
-<a href="https://twitter.com/ajithkumarg1906" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gokulnath" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ajithkumar-gunasekar-3aba50213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gokulnath" height="30" width="40" /></a>
+
+<a href="https://twitter.com/ajithkumarg1906" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ajithkumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ajithkumar-gunasekar-3aba50213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajithkumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +21,4 @@
 
 
 
- -->
+ 
